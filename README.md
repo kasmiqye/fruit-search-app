@@ -1,32 +1,18 @@
 # Fruit Search App
 
-Небольшое React-приложение, позволяющее искать фрукты по названию.  
-Проект создан с помощью Vite и развернут на GitHub Pages.
+A small React app that lets you search for fruits by name.
+The project was built using Vite and deployed on GitHub Pages.
 
-## Демо
-🔗 [Посмотреть приложение](https://kasmiqye.github.io/fruit-search-app/)
+## Demo
+[View app](https://kasmiqye.github.io/fruit-search-app/)
 
-## Функциональность
-- Поиск фруктов по введённому запросу.
-- Отображение списка фруктов.
-- Фильтрация в реальном времени.
+## Functionality
+- Search for fruits based on the entered query.
+- Display a list of fruits.
+- Real-time filtering.
 
-## Используемые технологии
+## Technologies Used
 - **React**
 - **Vite**
 - **JavaScript (ES6+)**
 - **CSS**
-
-## Установка и запуск
-```bash
-# Клонировать репозиторий
-git clone https://github.com/kasmiqye/fruit-search-app.git
-
-# Перейти в папку проекта
-cd fruit-search-app
-
-# Установить зависимости
-npm install
-
-# Запустить локально
-npm run dev
